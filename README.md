@@ -21,7 +21,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
+- Web server: osTicket requires a web server to run. The recommended web servers are Apache or Nginx. The web server should have PHP version 5.6 or later installed.
 - Item 2
 - Item 3
 - Item 4
