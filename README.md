@@ -22,10 +22,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Web server: osTicket requires a web server to run. The recommended web servers are Apache or Nginx. The web server should have PHP version 5.6 or later installed.
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- PHP: osTicket is built using PHP, so you need to have PHP installed on your web server. The recommended version is PHP 7.3 or later.
+- Database: osTicket requires a database to store data. The recommended database is MySQL version 5.5 or later. You can also use MariaDB or PostgreSQL.
+- Web browser: To access the osTicket web interface, you need a web browser. osTicket is compatible with most modern web browsers like Google Chrome, Mozilla Firefox, Microsoft Edge, and Safari.
+- Operating system: osTicket is a cross-platform application and can be installed on various operating systems. The recommended operating systems are Linux and Windows. However, you can also install it on macOS and other Unix-based systems.
 
 <h2>Installation Steps</h2>
 
