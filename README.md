@@ -33,7 +33,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Create a virtual machine: Create an Azure Virtual Machine and choose an operating system that is compatible with osTicket (e.g., Ubuntu, CentOS).
+
+Connect to the virtual machine: Connect to the virtual machine using an SSH client like PuTTY.
+
+Install required packages: Install the required packages for osTicket, including Apache, PHP, and MySQL. Use the package manager for your operating system to install these packages.
+
+Download osTicket: Download the latest version of osTicket from the official website at https://osticket.com/download/.
+
+Extract the files: Extract the osTicket files to a folder on your virtual machine.
+
 </p>
 <br />
 
