@@ -240,7 +240,7 @@ Set Permission to "`Read`" only can be acheived by choosing to right-click on '`
  
  <br />
  <br />
- <p align="right"> Next Up <a href="https://github.com/0xbythesecond/post-install-config"> OSTicket Post Install Configuration </a></p>
+ <p align="right"> Next Up <a href="https://github.com/shakiramcdonald/post-install-config"> OSTicket Post Install Configuration </a></p>
 
 
 
